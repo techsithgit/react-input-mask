@@ -18,5 +18,25 @@
     "bundled": 28947,
     "minified": 11818,
     "gzipped": 3931
+  },
+  "react-input-mask.js": {
+    "bundled": 79669,
+    "minified": 26148,
+    "gzipped": 8346
+  },
+  "react-input-mask.min.js": {
+    "bundled": 44160,
+    "minified": 15351,
+    "gzipped": 5308
+  },
+  "react-input-mask.development.js": {
+    "bundled": 30278,
+    "minified": 12959,
+    "gzipped": 4280
+  },
+  "react-input-mask.production.min.js": {
+    "bundled": 28947,
+    "minified": 11882,
+    "gzipped": 3943
   }
 }
